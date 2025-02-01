@@ -1,7 +1,3 @@
-Here’s the properly formatted Markdown version of your **Library Management System using SQL** project for your GitHub `README.md` file:
-
----
-
 # Library Management System using SQL
 
 ## Project Overview
@@ -407,7 +403,6 @@ This project demonstrates the application of SQL skills in creating and managing
 
 **Author:** Ameer Hamza Ch  
 
-This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
-
+This project showcases SQL skills essential for database management and analysis.
 
 Thank you for your interest in this project!
