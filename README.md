@@ -23,9 +23,6 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### 1. Database Setup
 
-#### ERD
-The database schema includes tables for `books`, `branch`, `employee`, `issued_status`, `members`, and `return_status`.
-
 #### Database Creation
 Created a database named `LMS`.
 
